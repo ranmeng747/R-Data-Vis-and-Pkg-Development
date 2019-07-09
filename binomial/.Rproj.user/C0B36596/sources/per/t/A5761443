@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557346158178.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4223840166",
+    "id" : "A5761443",
+    "lastKnownWriteTime" : 1552445604,
+    "last_content_update" : 1552445604,
+    "path" : "C:/Ran/Berkeley/IEOR/Stats 133/hw-stat133/workout01/code/make-shot-charts-script.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "79,15",
+        "scrollLine" : "53"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

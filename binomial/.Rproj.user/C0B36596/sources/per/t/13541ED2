@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1556337552736.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1001710788",
+    "id" : "13541ED2",
+    "lastKnownWriteTime" : 1556591997,
+    "last_content_update" : 1556591997380,
+    "path" : "C:/Ran/Berkeley/IEOR/Stats 133/hw-stat133/binomial/R/functions.R",
+    "project_path" : "R/functions.R",
+    "properties" : {
+        "cursorPosition" : "209,10",
+        "scrollLine" : "164"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

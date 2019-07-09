@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557346195735.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2293876026",
+    "id" : "D6002B6",
+    "lastKnownWriteTime" : 1552445767,
+    "last_content_update" : 1552445767,
+    "path" : "C:/Ran/Berkeley/IEOR/Stats 133/hw-stat133/workout01/code/make-shots-data-script.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "23,32",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
